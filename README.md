@@ -16,6 +16,7 @@ as a text file.
 
 ## How to Run
 ```bash
-Payment-receipt-generator.py
+Payment-Receipt-Generator.ipynb
+
 
 
