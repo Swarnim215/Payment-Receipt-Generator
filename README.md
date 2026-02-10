@@ -16,6 +16,6 @@ as a text file.
 
 ## How to Run
 ```bash
-python receipt_generator.py
+Payment-receipt-generator.py
 
 
